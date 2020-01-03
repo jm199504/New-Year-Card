@@ -78,4 +78,4 @@ for person in RemarkNames:
 
 ![](/images/card1.png)
 
-<img src="/images/card2.jpg" style="zoom:30%;" />
+<img src="/images/card2.jpg" style="width:40%;" />
