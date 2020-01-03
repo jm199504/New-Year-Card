@@ -1,11 +1,3 @@
----
-addtags:
-	- python
-title: 自动生成祝福贺卡
-categories: Python
-
----
-
 概述：基于Python自动生成祝福贺卡
 
 <!--more-->
@@ -86,4 +78,4 @@ for person in RemarkNames:
 
 ![](/images/card1.png)
 
-![](/images/card2.jpg)
+<img src="/images/card2.jpg" style="zoom:30%;" />
