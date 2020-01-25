@@ -7,14 +7,7 @@
 备注：背景图片来源网络
 
 # 效果图
-
-<figure class="half">
-    <img src="/images/Lawrence.jpg">
-	<img src="/images/Canny.jpg">
-</figure>
-
-
-
+<img src="/images/Lawrence.jpg" width="50%">
+<img src="/images/Canny.jpg" width="50%">
 <img src="/images/chen.jpg" width="50%"/>
-
 <img src="/images/axian.jpg" width="50%"/>
