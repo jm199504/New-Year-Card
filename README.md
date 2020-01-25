@@ -8,9 +8,12 @@
 
 # 效果图
 
-<img src="/images/Lawrence.jpg" width="50%"/>
+<figure class="half">
+    <img src="/images/Lawrence.jpg" width="50%"/>
+	<img src="/images/Canny.jpg" width="50%"/>
+</figure>
 
-<img src="/images/Canny.jpg" width="50%"/>
+
 
 <img src="/images/chen.jpg" width="50%"/>
 
