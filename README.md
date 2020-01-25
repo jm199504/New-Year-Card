@@ -9,8 +9,8 @@
 # 效果图
 
 <figure class="half">
-    <img src="/images/Lawrence.jpg" width="50%"/>
-	<img src="/images/Canny.jpg" width="50%"/>
+    <img src="/images/Lawrence.jpg" width="30%"/>
+	<img src="/images/Canny.jpg" width="30%"/>
 </figure>
 
 
