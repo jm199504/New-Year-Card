@@ -8,9 +8,10 @@
 
 # 效果图
 
-<center class="half">
-    <img src="/images/Lawrence.jpg" width="40%"/><img src="/images/Canny.jpg" width="40%"/>
-</center>
+<figure class="half">
+    <img src="/images/Lawrence.jpg">
+	<img src="/images/Canny.jpg">
+</figure>
 
 
 
